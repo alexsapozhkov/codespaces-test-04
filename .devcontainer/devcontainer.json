@@ -16,15 +16,11 @@
 	],
 	"portsAttributes": {
 		"4321": {
-			"protocol": "https",
 			"label": "Manifest",
-			"onAutoForward": "silent",
 			"requireLocalPort": true
 		},
 		"35729": {
-			"protocol": "https",
 			"label": "LiveReload",
-			"onAutoForward": "silent",
 			"requireLocalPort": true
 		}
 	},
